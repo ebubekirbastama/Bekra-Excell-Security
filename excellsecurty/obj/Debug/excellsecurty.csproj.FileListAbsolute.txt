@@ -1,0 +1,13 @@
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.csprojAssemblyReference.cache
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.guvenlik.resources
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.Properties.Resources.resources
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.csproj.GenerateResource.cache
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\bin\Debug\excellsecurty.exe.config
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\bin\Debug\excellsecurty.exe
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\bin\Debug\excellsecurty.pdb
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\bin\Debug\DevComponents.DotNetBar2.DLL
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\bin\Debug\Ionic.Zip.dll
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.csproj.CopyComplete
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.exe
+C:\Users\Ebubekir\source\repos\excellsecurty\excellsecurty\obj\Debug\excellsecurty.pdb
